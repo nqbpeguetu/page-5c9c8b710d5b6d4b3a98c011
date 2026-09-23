@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e4470dc8027eb0aa8fafc633",
+  "owner": "nqbpeguetu",
+  "repo": "page-5c9c8b710d5b6d4b3a98c011",
+  "title": "津叶云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5c9c8b710d5b6d4b3a98c011",
+      "a": "津叶云",
+      "b": "2027最新官网",
+      "entity": "津叶云",
+      "brand": "津叶云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ed1e481aff31cfefa88defc8a1055c67c2971cc604f9ed4842c0068e1af60ab0",
+      "content": {
+        "primary_entity": "津叶云",
+        "keyword1": "津叶云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，桌面端、移动端与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "从基础版开始体验，用轻量订阅跑通第一台设备。",
+          "AI_CLOSING_TITLE": "从轻量订阅起步",
+          "AI_DESCRIPTION": "，津叶云提供基础版、旗舰版与团队版三档订阅，分别覆盖 100GB、300GB 与 1000GB 月流量，同时在线设备可支持 3 台、5 台与 20 台。旗舰版带 IPLC 专线游戏加速优化与 7x24 优先工单，团队版提供 VIP 高带宽节点与企业定制路由。按年付方案折算月费更低，适合确定长期使用的用户，配置订阅时先确认设备数量再对照流量额度选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三个维度对比三档订阅，快速锁定匹配项。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "每月 100GB 到 1000GB 流量区间，按日常用量和流媒体频率选择档位。",
+          "AI_FEATURE_TEXT_2": "在线设备从 3 台到 20 台跨档，手机、平板、电脑与路由需同步计入。",
+          "AI_FEATURE_TEXT_3": "普通节点、全节点流媒体与 IPLC 专线分层，游戏与会议对线路更敏感。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "按选服务、查适配、配订阅的顺序完成首次使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "津叶云面向需要海外网络加速的用户，提供三档订阅选择，按月流量与同时在线设备数划分使用范围。桌面端、移动端与路由器客户端可分别配置订阅信息，旗舰版与团队版还提供专线节点和企业路由支持，便于不同规模用户按需选用。",
+          "AI_HERO_SUBTITLE": "津叶云三档订阅覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付方案折算月费更实惠",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏与会议",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版平衡流量与设备数，团队版面向多设备与定制路由需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按同时在线设备数量和月流量预估，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_2": "确认所选设备类型对应客户端版本，核对系统版本与网络环境是否满足。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅信息，完成后测试连接并按设备数管理在线终端。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "津叶云加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，追剧与游戏选旗舰版，多设备或团队使用选团队版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台设备同时在线。如果家里手机、电脑、平板都要用，建议至少选旗舰版。",
+          "AI_FAQ_ANSWER_3": "按年付比月付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中导入订阅链接即可，客户端支持手动添加或扫描二维码，具体步骤可查看各客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和流媒体体验要求较高的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "津叶云不同套餐的流量区别大吗？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "订阅配置怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-p18d3h92owo6k.com",
+    "host": "xn--vpn-p18d3h92owo6k.com"
+  },
+  "file_hashes": {
+    "index.html": "697690d6569cba930bb22b6838c0f2d73b1017f33fe1fc89993969eb30cdb3db",
+    "sitemap.xml": "381b0ff54c27571c65ea18a96d36f21262caa2156e31dd5e1e3c0848e97265e2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bccd8c491e1a8700ec25108a8a13f31ac32fb40934c3d44770cf26e7f42c99d5",
+    "robots.txt": "46d505634db28eeaee04bb5992a0658dd07c74ff1b48823906a8cc855eaa153c",
+    "aa12e195bcc4543cbe74ac929e022dc9.txt": "35941edaf0737c2524dab150772e69b5a812fce3489dcc0247e521969727afed"
+  },
+  "revision": "f3cdc49ce4a7d2f1ed4e52c0785389cb9fcea6d4da03a03e0ed3835d520e0953"
+}
